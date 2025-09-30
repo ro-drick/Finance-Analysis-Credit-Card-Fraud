@@ -88,7 +88,7 @@ According to the **Nilson Report**, global banking fraud was projected to cause 
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/credit-card-fraud-detection.git
+   git clone https://github.com/ro-drick/Finance-Analysis-Credit-Card-Fraud.git
    cd credit-card-fraud-detection
 ```
 
@@ -100,18 +100,12 @@ According to the **Nilson Report**, global banking fraud was projected to cause 
    venv\Scripts\activate      # On Windows
    ```
 
-3. **Install dependencies**
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. **Download the dataset**
+3. **Download the dataset**
 
    * Get the dataset from [Kaggle](https://www.kaggle.com/mlg-ulb/creditcardfraud)
    * Place it in the `data/` folder
 
-5. **Run the Jupyter Notebook**
+4. **Run the Jupyter Notebook**
 
    ```bash
    jupyter notebook
